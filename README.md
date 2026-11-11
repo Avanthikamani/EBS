@@ -1,6 +1,6 @@
 # WORKING WITH EBS
-## NAME: DEVENDRAN G
-## REG NO: 212225240030
+## NAME: AVANTHIKA.M
+## REG NO: 212224110009
 
 ## Aim
 
@@ -127,16 +127,15 @@ file.txt
 ---
 
 ## Outputs
-<img width="630" height="1400" alt="image" src="https://github.com/user-attachments/assets/23bbd1c7-502b-4d19-9a68-dc7c8e7a7ef4" />
-<img width="630" height="1400" alt="image" src="https://github.com/user-attachments/assets/4b0a89d0-d4e6-4286-8b63-17975714e392" />
-<img width="630" height="1400" alt="image" src="https://github.com/user-attachments/assets/d6bbe90e-11f9-445c-a846-6e3ce6b4f271" />
-<img width="1400" height="630" alt="image" src="https://github.com/user-attachments/assets/bac683ec-7c40-456c-b439-62a20a7fa019" />
-<img width="630" height="1400" alt="image" src="https://github.com/user-attachments/assets/00a3a786-bc7a-490d-8c2a-5cfa7a35e47c" />
-<img width="630" height="1400" alt="image" src="https://github.com/user-attachments/assets/620c7487-4f88-40b1-9762-6ec998213183" />
-<img width="630" height="1400" alt="image" src="https://github.com/user-attachments/assets/293a167d-1d31-451a-87c5-09a3aab24782" />
-<img width="630" height="1400" alt="image" src="https://github.com/user-attachments/assets/94cbb94e-176d-44c8-8344-4b4f6bbae3ca" />
-<img width="630" height="1400" alt="image" src="https://github.com/user-attachments/assets/46bca885-aea6-4672-9967-3e5f454e0970" />
-<img width="1400" height="630" alt="image" src="https://github.com/user-attachments/assets/2ac797d7-4c34-4947-aac6-051577d4a76b" />
+<img width="1917" height="1031" alt="Screenshot 2026-11-03 091105" src="https://github.com/user-attachments/assets/fb9a93f2-9d89-48a3-a4a2-1ef4a9cf481d" />
+<img width="1916" height="1037" alt="Screenshot 2026-11-08 081725" src="https://github.com/user-attachments/assets/8a09cf17-e224-42d5-af5c-ac5215a8d7db" />
+<img width="1917" height="1022" alt="Screenshot 2026-11-08 081816" src="https://github.com/user-attachments/assets/1f25f31c-417a-4f81-99b1-8720e6a3694a" />
+<img width="1917" height="1042" alt="Screenshot 2026-11-08 082031" src="https://github.com/user-attachments/assets/ef24e292-3371-476f-89a1-0747313a6eca" />
+<img width="1917" height="1027" alt="Screenshot 2026-11-08 082101" src="https://github.com/user-attachments/assets/57a57715-2e91-4fa1-a0e2-2ac955047cf1" />
+<img width="1915" height="1028" alt="Screenshot 2026-11-08 082302" src="https://github.com/user-attachments/assets/8f66cfaf-7f4b-4e2d-b852-fe5574c4ecd8" />
+<img width="1917" height="1032" alt="Screenshot 2026-11-08 082321" src="https://github.com/user-attachments/assets/0751b0db-1369-4157-aea9-69f120f26c12" />
+
+
 
 
 
